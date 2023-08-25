@@ -21,3 +21,5 @@
 <img align="center" alt="Microsoft OFFICE" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=whit"/>
 <img align="center" alt="Microsoft Sharepoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>
 <img align="center" alt="Microsoft Sharepoint" src="https://img.shields.io/badge/Microsoft-666666?style=for-the-badge&logo=microsoft&logoColor=white"/>
+
+Minhas maiores inspirações são Bill Gates, Elon Musk e Mark Zuckerberg, me espelho em suas trajetórias para alcançar meus objetivos profissionais. Estou sempre em busca de atualização com as tecnologias mais recentes para estar pronto para enfrentar os desafios futuros em minha carreira.
